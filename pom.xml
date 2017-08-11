@@ -6,7 +6,7 @@
         <connection>scm:git:git://github.com/bpenrod/test-jvm-lib.git</connection>
         <developerConnection>scm:git:git@github.com:bpenrod/test-jvm-lib.git</developerConnection>
         <url>http://github.com/bpenrod/test-jvm-lib</url>
-        <tag>test-jvm-lib-1.3</tag>
+        <tag>test-jvm-lib-1.0</tag>
     </scm>
 
     <distributionManagement>
@@ -20,7 +20,7 @@
 
     <groupId>com.bpenrod</groupId>
     <artifactId>test-jvm-lib</artifactId>
-    <version>1.3</version>
+    <version>1.4-SNAPSHOT</version>
     <packaging>jar</packaging>
     
     <properties>
